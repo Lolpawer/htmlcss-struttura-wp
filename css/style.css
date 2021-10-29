@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    background-color: #e579e6;
+    height: 110px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
